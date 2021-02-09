@@ -24,7 +24,7 @@ export default function ContactForm() {
 
     axios({
       method: "POST",
-      url: "URLOFBACKEND/email",
+      url: "ashukri@kabarak.ac.ke",
       data: {
         name: name,
         email: email,

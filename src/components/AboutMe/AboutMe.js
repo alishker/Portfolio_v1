@@ -22,7 +22,7 @@ const AboutMe = () => {
       </Typography>
       <div className="name">
         <img src={portfolio} alt="profile_photo" className="img" />
-        <h1>Faiz Hameed</h1>
+        <h1>Alinoor Shukri</h1>
         <div className="subtitle">
           <h3>I am a Full stack web developer. I give life to designs</h3>
           <p>
