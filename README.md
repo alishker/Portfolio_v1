@@ -1,8 +1,8 @@
-# React Portfolio Template
+# portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+its done using React, bootsrap and html
 
-## Available Scripts
+## to run run the following commands
 
 In the project directory, you can run:
 
