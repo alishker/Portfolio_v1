@@ -36,6 +36,7 @@ export default function Skill({ skill }) {
           </div>
         ))}
       </div>
+
     </React.Fragment>
   );
 }
